@@ -1,0 +1,14 @@
+Employee
+
+attributes:
+name (string)
+position (string)
+shiftLength (integer)
+clockedIn (boolean)
+wage (float)
+
+methods:
+newEmployee (adds to name, position, shiftLength, clockedIn attributes)
+annualReview (changes position and wage attributes)
+clockOut (sets clockedIn to false)
+hourlyRate ( shiftLength + wage)
