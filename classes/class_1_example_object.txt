@@ -1,4 +1,4 @@
-Gelato
+homemadeGelato
 
 price (5)
 toGo (true)
