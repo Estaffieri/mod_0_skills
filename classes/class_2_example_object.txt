@@ -1,0 +1,14 @@
+estelleStaffieri774
+
+attributes:
+name 'Estelle' 'Staffieri'
+position 'cashier'
+shiftLength (8)
+clockedIn (true)
+wage (15.05)
+
+methods:
+changeName:'Stella'
+annualReview: 'head cashier' and (20.73)
+clockOut: (sets clockedIn to false)
+hourlyRate: (8 * 20.73)= 165.84
