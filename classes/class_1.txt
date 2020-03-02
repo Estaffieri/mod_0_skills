@@ -4,8 +4,8 @@ attributes:
 price (integer)
 toGo (boolean)
 calorieCount (integer)
-flavors (string)
-size (array)
+flavors (array)
+size (string)
 
 methods:
 specialPromo (changes price attribute)
