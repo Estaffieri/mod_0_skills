@@ -11,4 +11,4 @@ methods:
 changeName (changes name attribute)
 annualReview (changes position and wage attributes)
 clockOut (sets clockedIn to false)
-hourlyRate ( shiftLength + wage)
+hourlyRate ( shiftLength * wage)
