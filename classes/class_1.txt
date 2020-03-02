@@ -1,0 +1,14 @@
+dessert
+
+attributes:
+price (integer)
+toGo (boolean)
+calorieCount (integer)
+flavors (string)
+size (array)
+
+methods:
+specialPromo (changes price attribute)
+toGoOrder (sets toGo to True)
+changeFlavor (changes flavor attribute)
+calculateCalories ( looks at flavors + calorieCount + size returns sum)
