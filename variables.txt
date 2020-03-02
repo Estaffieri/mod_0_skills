@@ -1,0 +1,9 @@
+var foodString = 'pasta';
+var is_delicious = true;
+var foodString = 'alfredo';
+var num2 = 2;
+var num7 = 7;
+var quotient = num2/num7;
+var songs = ['A' , 'B' , 'C' , 'D'];
+songs.shift();
+foodString.length; or array.form ('alfredo').length
