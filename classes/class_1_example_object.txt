@@ -1,0 +1,15 @@
+Gelato
+
+price (5)
+toGo (true)
+calorieCount (430)
+flavors ['lemon' , 'cherry' , 'pistachio']
+size 'medium'
+
+methods:
+specialPromo: (3)
+toGoOrder: (True)
+changeFlavor: [ 'coffee' , 'chai' , 'pistachio']
+calculateCalories ( coffee + chai + pistachio + calorieCount + medium returns sum)
+
+//I'd need to have values for the volume per size, and calories per flavor so I'm keeping a small level of abstraction here.//
